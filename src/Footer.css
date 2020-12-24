@@ -1,0 +1,12 @@
+.footer {
+  min-height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #111;
+  background-color: #a5d0f3;
+}
+
+.footer a {
+  color: #111;
+}
